@@ -1,0 +1,30 @@
+<VillagerPvP_TwitterApp>
+    user_vid_input: user_vid_input
+
+
+    GridLayout:
+        cols:1
+        size: root.width, root.height
+
+        GridLayout:
+            cols:2
+            Label:
+                text: "Twitch Link:"
+
+            TextInput:
+                id: user_vid_input
+                multiline:True
+
+        FloatLayout:
+            Button:
+                size_hint: 1, 1
+                background_color: 0.4,0.5,0.6,1
+                text:"Submit"
+                on_press:root.btn0()
+
+            Button:
+                size_hint: 0.3, 0.3
+                text:"Clear"
+                on_press:root.btn1()
+
+
