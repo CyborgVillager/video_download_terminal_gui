@@ -1,0 +1,28 @@
+Key Legend:
+                -- = current version
+                -wor: = working on this ver
+                 <-x_x-> = bug
+                 |x_x| = bug fixed
+                 <-o_o-> = design issue
+                 |o_o| = design issue fixed
+
+
+                     ~Updating to repo~
+               | --------------------------- |
+               | v# : Short Version Title    |
+               | Description: v# description |
+               | --------------------------- |
+
+----------------------------    ----------------------------   ------------------------- ------------------------------
+v0 New Wave: Acquired info from https://ytdl-org.github.io/youtube-dl/index.html & https://buildmedia.readthedocs.org/media/pdf/kivy/latest/kivy.pdf
+        This mini project will help both content & general users to either create or to download content either in gif, mp4, or mp3
+        format. 60% of the other project is completed currently in progress on making it enabled for an .exe format for quicker
+        use, with some other goodies in stored. This is version .01
+
+        In the next few updates versions will make an setup.py for quicker editing on the backend. This project will continue on for a while
+        and will help aid with other custom projects that are in stored for future releases.
+
+        If you have any suggestions feel free to DM me Ill be more than happy to hear your thoughts!
+
+--v1 Version_Info Added: Just added the version_info, will include my custom comments onto the program as well have 3 sets at the moment. As stated
+                            on v0 will include a setup.py and other goodies to help assist in reading the backend code.
